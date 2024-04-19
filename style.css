@@ -1,0 +1,14 @@
+#ui-bar {
+display: none;
+}
+
+#story {
+margin-left: 3.5em;
+}
+
+body {
+  background-color: #e0218a;
+  color: #fef2f9;
+  font-family: [Dolly script, sans serif];
+  font-size: 125%;
+}
